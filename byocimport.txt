@@ -1,0 +1,6 @@
+config macfilter add  8 byoc-phs "   "
+config macfilter add  8 byoc-phs "   "
+config macfilter add 20:68:9D:F8:0C:B1 8 byoc-phs "2014 Kyle Kelliher PC Laptop"
+config macfilter add 80:56:F2:4A:4F:49 8 byoc-phs "2016 Lauren Carlson PC Laptop"
+config macfilter add  8 byoc-phs "   "
+config macfilter add  8 byoc-phs "   "
