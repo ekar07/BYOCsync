@@ -1,2 +1,0 @@
-config macfilter add 20:68:9D:F8:0C:E6 8 byoc-phs "2014 Carl Kelliher PC Laptop"
-
